@@ -1,5 +1,5 @@
 # 💫 About Me:
-Entry-level ML engineer and software developer <br>with a strong passion for mathematics, Python, <br>algorithms, and machine learning. <br>Known for a diligent work ethic and a keen<br>interest in developing innovative solutions.
+Motivated and detail-oriented entry-level Machine Learning Engineer and Software Developer with a deep passion for mathematics, Python programming, algorithms, and machine learning. Proven ability to solve complex problems and a strong commitment to developing cutting-edge solutions. Adept at working with cross-functional teams to deliver impactful results in AI and data-driven projects.
 
 
 ## 🌐 Socials:
