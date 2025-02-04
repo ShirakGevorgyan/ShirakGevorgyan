@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated entry-level DevOps/ML Engineer with a strong foundation in Python, machine learning, and mathematics. Gaining experience in DevOps tools like Docker, Kubernetes, Terraform, and AWS, with a focus on automation and CI/CD pipelines. Passionate about learning, solving challenges, and contributing to impactful projects while growing through collaboration and hands-on experience.
+Motivated entry-level ML/DevOps Engineer with a strong foundation in Python, machine learning, and mathematics. Gaining experience in DevOps tools like Docker, Kubernetes, Terraform, and AWS, with a focus on automation and CI/CD pipelines. Passionate about learning, solving challenges, and contributing to impactful projects while growing through collaboration and hands-on experience.
 
 
 ## 🌐 Socials:
