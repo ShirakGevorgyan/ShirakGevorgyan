@@ -1,5 +1,23 @@
 # 💫 About Me:
-Motivated entry-level ML/DevOps Engineer with a strong foundation in Python, machine learning, and mathematics. Gaining experience in DevOps tools like Docker, Kubernetes, Terraform, and AWS, with a focus on automation and CI/CD pipelines. Passionate about learning, solving challenges, and contributing to impactful projects while growing through collaboration and hands-on experience.
+
+Experienced ML/DevOps Engineer with extensive hands-on work turning models into **maintainable, reproducible services**. I’m strong on **networking & Linux**, **Bash**, **Docker & Docker Compose**, and **GitHub Actions/CI-CD**. I enjoy writing **framework-free, from-scratch** implementations (e.g., NumPy neural nets) to understand the math end-to-end, then packaging them as clean, documented APIs others can run in one command.
+
+**Core strengths**
+- Networking & Linux (system/network tooling), Bash scripting
+- Containers: Docker, Docker Compose; image hardening & minimal builds
+- CI/CD: Git, GitHub Actions (build/test/release pipelines)
+- Backend/ML: FastAPI, Pydantic, NumPy; metrics & evaluation; from-scratch NNs
+
+**Also familiar (basic/learning):** Terraform, Ansible, Kubernetes, Jenkins.
+
+**Recent highlights**
+- Built a **from-scratch NumPy MLP** and shipped it as a **Dockerized FastAPI** with metrics and explainability.
+- Containerized multiple ML projects for one-command startup; added health checks and clear READMEs.
+
+**Contact**
+- 📧 [Email me](mailto:shirak.gevorgyan.1999@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shirak-gevorgyan-244b96274/)
+
 
 
 ## 🌐 Socials:
