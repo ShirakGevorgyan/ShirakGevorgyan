@@ -1,22 +1,28 @@
 # 💫 About Me:
 
-Experienced ML/DevOps Engineer with extensive hands-on work turning models into **maintainable, reproducible services**. I’m strong on **networking & Linux**, **Bash**, **Docker & Docker Compose**, and **GitHub Actions/CI-CD**. I enjoy writing **framework-free, from-scratch** implementations (e.g., NumPy neural nets) to understand the math end-to-end, then packaging them as clean, documented APIs others can run in one command.
+Experienced ML/DevOps Engineer with solid industry experience building **end-to-end ML systems**—from data and features to models, packaging, and reliable delivery. Strong on **Networking & Linux**, **Bash**, **Docker / Docker Compose**, and **GitHub Actions (CI/CD)**. I enjoy implementing things **from scratch** (e.g., NumPy neural nets) to understand the math, then shipping them as clean, documented services.
 
-**Core strengths**
-- Networking & Linux (system/network tooling), Bash scripting
-- Containers: Docker, Docker Compose; image hardening & minimal builds
-- CI/CD: Git, GitHub Actions (build/test/release pipelines)
-- Backend/ML: FastAPI, Pydantic, NumPy; metrics & evaluation; from-scratch NNs
+#### Machine Learning & AI
+- **Modeling:** classification/regression, model selection, cross-validation, calibration, threshold tuning (ROC/PR, F1, MCC)
+- **Data work:** data cleaning, imputation, outlier handling, feature engineering & scaling, leakage checks, reproducible splits
+- **Neural Networks:** design/train MLPs (ReLU/Dropout, BCE grads, Adam/AdamW), regularization, early stopping, learning-rate scheduling
+- **LLM:** prompt design/evaluation, API integration, small-scale fine-tuning/adapters; serving simple LLM demos
+- **Libraries:** `scikit-learn`, `TensorFlow/Keras`, `NumPy`, `Pandas`; backend with `FastAPI` & `Pydantic`
 
-**Also familiar (basic/learning):** Terraform, Ansible, Kubernetes, Jenkins.
+#### DevOps / MLOps
+- **Containers:** Docker & Docker Compose, minimal images, health checks, image hardening
+- **CI/CD:** Git & GitHub Actions (build/test/release pipelines), artifact/version management
+- **Systems:** Networking & Linux tools, Bash scripting, troubleshooting and observability mindset
+- **Basic familiarity:** Terraform, Ansible, Kubernetes, Jenkins (continuously improving)
 
-**Recent highlights**
-- Built a **from-scratch NumPy MLP** and shipped it as a **Dockerized FastAPI** with metrics and explainability.
-- Containerized multiple ML projects for one-command startup; added health checks and clear READMEs.
+#### What I care about
+- Clean, typed Python; reproducibility; clear docs and one-command startup
+- Measurable quality: deterministic builds, pinned deps, proper metrics & monitoring hooks
 
 **Contact**
 - 📧 [Email me](mailto:shirak.gevorgyan.1999@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shirak-gevorgyan-244b96274/)
+
 
 
 
