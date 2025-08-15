@@ -33,7 +33,6 @@ Experienced ML/DevOps Engineer with solid industry experience building **end-to-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShirakGevorgyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShirakGevorgyan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirakGevorgyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
